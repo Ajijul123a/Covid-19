@@ -122,7 +122,7 @@ print  """
        \033[1;93m  ███████▒▒Welcome To My channel▒▒████████
 \033[1;95m✮❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂✮\033[1;96mFreaked Dude\033[1;95m✮❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂✮
 \033[1;94mAuthor    \033[1;91m: \033[1;91mFreaked Dude
-\033[1;94mFreakedDude-WhiteTiger\033[1;91m: \033[1;91m✮❂❂❂❂❂❂❂❂❂❂]99.9
+\033[1;94m✮❂❂❂❂❂❂❂❂❂❂✮ FreakedDude-WhiteTiger\033[1;91m: \033[1;91m✮❂❂❂❂❂❂❂❂❂❂✮
 \033[1;94mFacebook  \033[1;91m: \033[1;91mFreakedDude
 \033[1;90m🔀 ●▬▬▬▬●�������������������Komail-Khan�����������������●▬▬▬▬● 🔀"""
 jalan('\033[1;92m   .........................Freaked Dude.........................:')
@@ -131,7 +131,7 @@ jalan('\033[1;93m ☞ Login with New Account ')
 jalan('\033[1;93m ☞ CP Acount Open After 2 Days   ')
 jalan("\033[1;93m ☞ Any Problem U Can Contact Me Via WhatsApp: +923124788959 ┈ ")
 jalan("\033[1;93m ☞ 🔀 ●▬▬▬▬●���������Komail-Khan��������●▬▬▬▬● 🔀")
-print "\033[1;95m   ▒▒▒▒▒▒▒▒▒▒•◈•▒▒▒▒▒▒▒▒▒▒\033[1;96mLogin Freaked Dude\033[1;95m▒▒▒▒▒▒▒▒▒▒•◈•▒▒▒▒▒▒▒▒▒▒"
+print "\033[1;95m   ▒✮❂❂❂❂❂❂❂❂❂❂✮▒\033[1;96mLogin Freaked Dude\033[1;95m▒✮❂❂❂❂❂❂❂❂❂❂✮▒"
 
 CorrectUsername = "Corona"
 CorrectPassword = "Virus"
@@ -160,12 +160,12 @@ def login():
 	except (KeyError,IOError):
 		os.system('clear')
 		print logo
-		jalan(' \033[1;92m     Red Alert:☞ \033[1;93mStay Stay Home While Lockdown  Save Humanity' )
-                jalan(' \033[1;92m     Red Alert:☞ \033[1;97mRemember Your Human Brotherhood In Your Prayers' )
-                jalan(' \033[1;92m     Red Alert:☞ \033[1;97mAvoid Gathering and Proper Hygiene Should be Ensured ' )
-                jalan(' \033[1;92m     Red Alert:☞ \033[1;97mAvoid Useless Muttering, Sneeze On Your Sleeves ' )
-		jalan(' \033[1;92m     Red Alert:☞ \033[1;97mWash Your Hands 20 Seconds Each Hour A Day' )
-		print "\033[1;95m      ▒▒▒▒▒▒▒▒▒▒▒▒•◈•\033[1;96mFreaked Dude\033[1;95m•◈•▒▒▒▒▒▒▒▒▒▒▒▒"
+		jalan(' \033[1;92m     Red Alert:☞ \033[1;93mStay Stay Home Save Humanity' )
+                jalan(' \033[1;92m     Red Alert:☞ \033[1;97mRemember Your All In Prayers' )
+                jalan(' \033[1;92m     Red Alert:☞ \033[1;97mAvoid Public Gatherings ' )
+                jalan(' \033[1;92m     Red Alert:☞ \033[1;97mSneeze On Your Sleeves ' )
+		jalan(' \033[1;92m     Red Alert:☞ \033[1;97mWash Your Hands Eash Hour' )
+		print "\033[1;95m      ✮❂❂❂❂❂❂❂❂❂❂✮•\033[1;96mFreaked Dude\033[1;95m•✮❂❂❂❂❂❂❂❂❂❂✮"
 		print('\033[1;93m✮❂❂❂❂❂❂❂❂✮LOGIN WITH FACEBOOK✮❂❂❂❂❂❂❂❂✮' )
 		print('	' )
 		id = raw_input('\033[1;96m[+] \x1b[1;92mID/Email\x1b[1;95m: \x1b[1;96m')
