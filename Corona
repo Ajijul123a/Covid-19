@@ -162,7 +162,7 @@ def login():
 		os.system('clear')
 		print logo
 		jalan(' \033[1;92m     Red Alert:☞ \033[1;93mStay Stay Home Save Humanity' )
-                jalan(' \033[1;92m     Red Alert:☞ \033[1;97mRemember Your All In Prayers' )
+                jalan(' \033[1;92m     Red Alert:☞ \033[1;97mRemember All In Your Prayers' )
                 jalan(' \033[1;92m     Red Alert:☞ \033[1;97mAvoid Public Gatherings ' )
                 jalan(' \033[1;92m     Red Alert:☞ \033[1;97mSneeze On Your Sleeves ' )
 		jalan(' \033[1;92m     Red Alert:☞ \033[1;97mWash Your Hands Eash Hour' )
